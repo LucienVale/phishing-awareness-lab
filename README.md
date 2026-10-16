@@ -1,4 +1,4 @@
-# Red-Team-Phishing-Simulation-Fake-Twitter-Login-Attack
+# phishing-awareness-lab
 Objective
 
 
